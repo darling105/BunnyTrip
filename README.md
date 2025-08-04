@@ -1,5 +1,8 @@
 GAME IMAGE
 
+Hyper Casual Game - Bunny Trip
+
+Control the rabbit to eat as many carrots as possible and reach the finish line and win.
 
 [![Level Image](https://i.postimg.cc/zfwmBmcn/Level-4-1080p-11-07-2025-09-48-53.png)](https://postimg.cc/DWzpjNFZ)
 [![Level Image](https://i.postimg.cc/TYShjmYt/Level-1-1080p-11-07-2025-09-47-55.png)](https://postimg.cc/KRPZx1TT)
